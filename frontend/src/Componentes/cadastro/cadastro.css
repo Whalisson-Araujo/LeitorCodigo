@@ -1,0 +1,56 @@
+.cod {
+    position: relative;
+    width: 300px;
+    margin: 0 auto;
+}
+
+#codigo {
+    position: absolute;
+    top: -20px;
+    left: 0;
+    font-size: 14px;
+    color: #666;
+}
+
+#codprod {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+#descricao {
+    position: absolute;
+    top: -20px;
+    left: 0;
+    font-size: 14px;
+    color: #666;
+}
+
+#decprod {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+#preco {
+    position: absolute;
+    top: -20px;
+    left: 0;
+    font-size: 14px;
+    color: #666;
+}
+
+#preprod {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+#cad, #del {
+    width: 50%;
+    padding: 10px;
+    font-size: 16px;
+}
